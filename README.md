@@ -3,6 +3,4 @@
 ## This should be only on the 'develop' branch
 Hello, World!
 ## new feature
-wow amazing!
-july 21 in github site
-ew disgusting
+DEV2 new branch, to be merged into develop
